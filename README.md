@@ -22,7 +22,7 @@ In the project directory, follow the steps below:
 
 1. Install required npm packages: ``npm install``
 2. Start the application: ``npm start``
-3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+3. View it in the browser (port 3000)
 
 ## Usage
 
